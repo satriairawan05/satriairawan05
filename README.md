@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Guys 👋
 
 <!--
 **satriai0508/satriai0508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## &#x1f4c8; Tech Stack
+## &#x1f4c8; My Tech Stack
 
 <p>
  <img src="https://img.shields.io/badge/HTML-E34F26?logo=Javascript&logoColor=white&style=ShieldStyle" />
