@@ -22,7 +22,8 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/HTML-E34F26?logo=Javascript&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&logoColor=white&style=ShieldStyle" />
+ <img src="https://img.shields.io/badge/Jquery-0769AD?logo=Javascript&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/Tailwind-38BDF8?logo=TailwindCSS&logoColor=white&style=ShieldStyle" />
- <img src="https://img.shields.io/badge/Jquery-0769AD?logo=Javascript&logoColor=white&style=ShieldStyle" />
+ <img src="https://img.shields.io/badge/laravel-F9322C?logo=Laravel&logoColor=white&style=ShieldStyle" />
 </p>
