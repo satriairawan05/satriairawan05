@@ -26,8 +26,8 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=Jquery&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/Tailwind CSS-38BDF8?logo=TailwindCSS&logoColor=white&style=ShieldStyle" />
- <!--  
  <img src="https://img.shields.io/badge/React Js-61dafb?logo=React&logoColor=white&style=ShieldStyle" />
+ <!--
  <img src="https://img.shields.io/badge/Vue Js-42B883?logo=Vue.js&logoColor=white&style=ShieldStyle" />
  -->
  <img src="https://img.shields.io/badge/Laravel-F9322C?logo=Laravel&logoColor=white&style=ShieldStyle" />
