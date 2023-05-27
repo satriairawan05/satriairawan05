@@ -15,3 +15,11 @@
  -->
  <img src="https://img.shields.io/badge/Laravel-F9322C?logo=Laravel&logoColor=white&style=ShieldStyle" />
 </p>
+
+<p>
+**Client:** HTML, CSS, Javascript, Typescript, Bootstrap, TailwindCSS, jQuery, ReactJS
+</p>
+
+<p>
+**Client:** PHP, Laravel
+</p>
