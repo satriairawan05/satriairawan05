@@ -8,10 +8,13 @@
  <img src="https://img.shields.io/badge/PHP-8892BF?logo=Php&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=Jquery&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=ShieldStyle" />
- <img src="https://img.shields.io/badge/Tailwind CSS-38BDF8?logo=TailwindCSS&logoColor=white&style=ShieldStyle" />
- <img src="https://img.shields.io/badge/React Js-61dafb?logo=React&logoColor=white&style=ShieldStyle" />
+ <img src="https://img.shields.io/badge/React.JS-61dafb?logo=React&logoColor=white&style=ShieldStyle" />
  <!--
- <img src="https://img.shields.io/badge/Vue Js-42B883?logo=Vue.js&logoColor=white&style=ShieldStyle" />
+ <img src="https://img.shields.io/badge/Vue.JS-42B883?logo=Vue.js&logoColor=white&style=ShieldStyle" />
+ -->
+ <img src="https://img.shields.io/badge/Tailwind.CSS-38BDF8?logo=TailwindCSS&logoColor=white&style=ShieldStyle" />
+ <!--
+ <img src="https://img.shields.io/badge/Alpine.JS-77C1D2?logo=AlpineJS&logoColor=white&style=ShieldStyle" />
  -->
  <img src="https://img.shields.io/badge/Laravel-F9322C?logo=Laravel&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/Livewire-FB70A9?logo=Livewire&logoColor=white&style=ShieldStyle" />
