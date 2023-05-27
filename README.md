@@ -14,12 +14,5 @@
  <img src="https://img.shields.io/badge/Vue Js-42B883?logo=Vue.js&logoColor=white&style=ShieldStyle" />
  -->
  <img src="https://img.shields.io/badge/Laravel-F9322C?logo=Laravel&logoColor=white&style=ShieldStyle" />
-</p>
-
-<p>
-**Client:** HTML, CSS, Javascript, Typescript, Bootstrap, TailwindCSS, jQuery, ReactJS
-</p>
-
-<p>
-**Client:** PHP, Laravel
+ <img src="https://img.shields.io/badge/Livewire-FB70A9?logo=Livewire&logoColor=white&style=ShieldStyle" />
 </p>
