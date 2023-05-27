@@ -1,3 +1,7 @@
+# Hi, I'm Deuwi Satriya Irawan! 👋
+
+I'm a Junior Full Stack Developer
+
 ## 🛠 Tech Stack
 
 <p>
