@@ -2,7 +2,7 @@
 
 I'm a Junior Full Stack Developer
 
-## 🛠 Tech Stack
+## 🛠 Stack
 
 <p>
  <img src="https://img.shields.io/badge/HTML-E34F26?logo=Html5&logoColor=white&style=ShieldStyle" />
