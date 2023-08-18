@@ -1,7 +1,6 @@
 ## Introduction
 
-<h3 align="center">Hey there, I'm <a href="https://github.com/satriairawan05">Deuwi Satriya Irawan</a></h3>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=I'm+a+Junior+Full+Stack+Developer" alt="Typing SVG" /></a></h5>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Deuwi+Satriya+Irawan;I'm+a+Junior+Full+Stack+Developer" alt="Typing SVG" /></a></h5>
 
 
   <table align="center">
