@@ -3,7 +3,7 @@
 <h3 align="center">Hey there, I'm <a href="https://github.com/satriairawan05">Deuwi Satriya Irawan</a></h3>
 <h5 align="center">I'm a Junior Full Stack Developer</h5>
 
-  <table>
+  <table align="center">
     <tr>
 <!--       <th>Profile Views</th> -->
       <th>Total Count</th>
