@@ -9,7 +9,7 @@
 
   <table>
     <tr>
-      <!-- <th>Profile Views</th> -->
+      <th>Profile Views</th>
       <th>Total Count</th>
     </tr>
     <tr>
@@ -17,7 +17,7 @@
         <div align="center">
           <a href="https://github.com/satriairawan05"><img src="https://github.com/satriairawan05.png" alt="@satriairawan05" width="52" /></a>
           <br />
-          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
+          <a align="center" href="https://github.com/satriairawan05"><b>Deuwi Satriya Irawan</b></a>
         </b>
       </td>
       <!-- Profile Views -->
