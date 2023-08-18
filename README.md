@@ -3,21 +3,19 @@
 <h3 align="center">Hey there, I'm <a href="https://github.com/satriairawan05">Deuwi Satriya Irawan</a></h3>
 <h5 align="center">I'm a Junior Full Stack Developer</h5>
 
-## Profile Views
-
   <table>
     <tr>
-      <th>Profile Views</th>
+<!--       <th>Profile Views</th> -->
       <th>Total Count</th>
     </tr>
     <tr>
-      <td>
+<!--       <td>
         <div align="center">
           <a href="https://github.com/satriairawan05"><img src="https://github.com/satriairawan05.png" alt="@satriairawan05" width="52" /></a>
           <br />
           <a align="center" href="https://github.com/satriairawan05"><b>Deuwi Satriya Irawan</b></a>
         </b>
-      </td>
+      </td> -->
       <!-- Profile Views -->
       <td>
          <a href="https://github.com/satriairawan05"> <img src="https://komarev.com/ghpvc/?username=satriairawan05&style=for-the-badge&color=green"> </a>
