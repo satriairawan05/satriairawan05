@@ -13,13 +13,13 @@
       <th>Total Count</th>
     </tr>
     <tr>
-      <!-- <td>
+      <td>
         <div align="center">
-          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
+          <a href="https://github.com/satriairawan05"><img src="https://github.com/satriairawan05.png" alt="@satriairawan05" width="52" /></a>
           <br />
           <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
         </b>
-      </td> -->
+      </td>
       <!-- Profile Views -->
       <td>
          <a href="https://github.com/satriairawan05"> <img src="https://komarev.com/ghpvc/?username=satriairawan05&style=for-the-badge&color=brightgreen"> </a>
