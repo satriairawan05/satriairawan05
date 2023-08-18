@@ -3,9 +3,7 @@
 <h3 align="center">Hey there, I'm <a href="https://github.com/satriairawan05">Deuwi Satriya Irawan</a></h3>
 <h5 align="center">I'm a Junior Full Stack Developer</h5>
 
- 
 ## Profile Views
-
 
   <table>
     <tr>
@@ -22,7 +20,7 @@
       </td>
       <!-- Profile Views -->
       <td>
-         <a href="https://github.com/satriairawan05"> <img src="https://komarev.com/ghpvc/?username=satriairawan05&style=for-the-badge&color=brightgreen"> </a>
+         <a href="https://github.com/satriairawan05"> <img src="https://komarev.com/ghpvc/?username=satriairawan05&style=for-the-badge&color=green"> </a>
       </td>
     </tr>
   </table>
