@@ -10,6 +10,7 @@
   --a-color: #000085;
   --text-color: #343a40;
   --icon-color: #495057;
+  --section-color: #dee2e6;
 }
 
 body {
@@ -116,7 +117,7 @@ h2 {
 }
 
 section.resume-section {
-  border-bottom: 1px solid #dee2e6;
+  border-bottom: 1px solid var(--section-color);
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
 }
