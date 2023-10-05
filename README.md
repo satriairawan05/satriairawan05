@@ -6,7 +6,7 @@
   <table align="center">
     <tr>
 <!--       <th>Profile Views</th> -->
-      <th>Total Count</th>
+<!--       <th>Total Count</th> -->
     </tr>
     <tr>
 <!--       <td>
