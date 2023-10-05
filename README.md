@@ -17,9 +17,11 @@
         </b>
       </td> -->
       <!-- Profile Views -->
+        <!--
       <td>
          <a href="https://github.com/satriairawan05"> <img src="https://komarev.com/ghpvc/?username=satriairawan05&style=for-the-badge&color=green"> </a>
       </td>
+        -->
     </tr>
   </table>
 
