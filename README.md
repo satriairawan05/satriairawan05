@@ -33,8 +33,8 @@
  <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/PHP-8892BF?logo=Php&logoColor=white&style=ShieldStyle" />
- <img src="https://img.shields.io/badge/React-JS-61dafb?logo=React&logoColor=white&style=ShieldStyle" />
- <img src="https://img.shields.io/badge/Next-JS-1f1f1f?logo=Next&logoColor=white&style=ShieldStyle" />
+ <img src="https://img.shields.io/badge/React-61dafb?logo=React&logoColor=white&style=ShieldStyle" />
+ <img src="https://img.shields.io/badge/Next-1f1f1f?logo=Next&logoColor=white&style=ShieldStyle" />
  <!--
  <img src="https://img.shields.io/badge/Vue JS-42B883?logo=Vue.js&logoColor=white&style=ShieldStyle" />
  -->
