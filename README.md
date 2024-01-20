@@ -48,6 +48,7 @@
  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/MySQL-3E6E93?logo=MySQL&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/Tailwind CSS-38BDF8?logo=TailwindCSS&logoColor=white&style=ShieldStyle" />
+  ![Alpine.js](https://img.shields.io/badge/Alpine.js-77C1D2?logo=AlpineJS&logoColor=white&style=flat)
 <!--  <img src="https://img.shields.io/badge/Alpine JS-77C1D2?logo=AlpineJS&logoColor=white&style=ShieldStyle" /> -->
  <img src="https://img.shields.io/badge/Laravel-F9322C?logo=Laravel&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/Livewire-FB70A9?logo=Livewire&logoColor=white&style=ShieldStyle" />
