@@ -39,8 +39,8 @@
  <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/PHP-8892BF?logo=Php&logoColor=white&style=ShieldStyle" />
- <img src="https://img.shields.io/badge/React-61dafb?logo=React&logoColor=white&style=ShieldStyle" />
-  <img src="https://img.shields.io/badge/Next.Js-000000?logo=nextdotjs&logoColor=white&style=ShieldStyle" />
+ <img src="https://img.shields.io/badge/React JS-61dafb?logo=React&logoColor=white&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/Next JS-000000?logo=nextdotjs&logoColor=white&style=ShieldStyle" />
  <!--
  <img src="https://img.shields.io/badge/Vue JS-42B883?logo=Vue.js&logoColor=white&style=ShieldStyle" />
  -->
@@ -50,7 +50,7 @@
  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/MySQL-3E6E93?logo=MySQL&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/Tailwind CSS-38BDF8?logo=TailwindCSS&logoColor=white&style=ShieldStyle" />
-  <img src="https://img.shields.io/badge/Alpine.JS-77C1D2?logo=Alpine.Js&logoColor=white&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/Alpine JS-77C1D2?logo=Alpine.Js&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/Laravel-F9322C?logo=Laravel&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/Livewire-FB70A9?logo=Livewire&logoColor=white&style=ShieldStyle" />
 </p>
