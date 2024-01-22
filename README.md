@@ -32,6 +32,8 @@
 ## 🛠 Stack
 
 <p>
+  <img src="https://img.shields.io/badge/Git-F14E32?logo=git&logoColor=white&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/HTML-E34F26?logo=Html5&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/CSS-1572B6?logo=Css3&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&logoColor=white&style=ShieldStyle" />
@@ -51,8 +53,6 @@
 <!--  <img src="https://img.shields.io/badge/Alpine.JS-77C1D2?logo=AlpineJS&logoColor=white&style=ShieldStyle" /> -->
  <img src="https://img.shields.io/badge/Laravel-F9322C?logo=Laravel&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/Livewire-FB70A9?logo=Livewire&logoColor=white&style=ShieldStyle" />
-  <img src="https://img.shields.io/badge/Git-F14E32?logo=git&logoColor=white&style=ShieldStyle" />
-  <img src="https://img.shields.io/badge/GitHub-FFF?logo=github&logoColor=white&style=ShieldStyle" />
 </p>
 
 ## Support
