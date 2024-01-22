@@ -52,6 +52,7 @@
  <img src="https://img.shields.io/badge/Laravel-F9322C?logo=Laravel&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/Livewire-FB70A9?logo=Livewire&logoColor=white&style=ShieldStyle" />
   <img src="https://img.shields.io/badge/Git-F14E32?logo=git&logoColor=white&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/GitHub-FFF?logo=github&logoColor=white&style=ShieldStyle" />
 </p>
 
 ## Support
