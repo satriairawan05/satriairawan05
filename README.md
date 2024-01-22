@@ -38,7 +38,7 @@
  <img src="https://img.shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/PHP-8892BF?logo=Php&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/React-61dafb?logo=React&logoColor=white&style=ShieldStyle" />
-  <img src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/Next.Js-000000?logo=nextdotjs&logoColor=white&style=ShieldStyle" />
  <!--
  <img src="https://img.shields.io/badge/Vue JS-42B883?logo=Vue.js&logoColor=white&style=ShieldStyle" />
  -->
@@ -51,6 +51,7 @@
 <!--  <img src="https://img.shields.io/badge/Alpine.JS-77C1D2?logo=AlpineJS&logoColor=white&style=ShieldStyle" /> -->
  <img src="https://img.shields.io/badge/Laravel-F9322C?logo=Laravel&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/Livewire-FB70A9?logo=Livewire&logoColor=white&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/Git-F14E32?logo=git&logoColor=white&style=ShieldStyle" />
 </p>
 
 ## Support
