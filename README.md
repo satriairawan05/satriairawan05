@@ -9,7 +9,7 @@
 
 ## Stats
 
-  ![github stats](https://github-readme-stats.vercel.app/api?username=satriairawan05&show_icons=true)
+  ![github stats](https://github-readme-stats.vercel.app/api?username=satriairawan05&show_icons=true&theme=dark)
   
 
 ## 🛠 Stack
