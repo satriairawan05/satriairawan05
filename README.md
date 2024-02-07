@@ -1,27 +1,5 @@
 ## Introduction
 
-  <table align="center">
-    <tr>
-      <th>Profile Views</th>
-<!--       <th>Total Count</th> -->
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <a href="https://github.com/satriairawan05"><img src="https://github.com/satriairawan05.png" alt="@satriairawan05" width="100" /></a>
-          <br />
-          <a align="center" href="https://github.com/satriairawan05"><b>Deuwi Satriya Irawan</b></a>
-        </b>
-      </td>
-      <!-- Profile Views -->
-        <!--
-      <td>
-         <a href="https://github.com/satriairawan05"> <img src="https://komarev.com/ghpvc/?username=satriairawan05&style=for-the-badge&color=green"> </a>
-      </td>
-        -->
-    </tr>
-  </table>
-
 <p align="center">
   Hello, I'm Deuwi Satriya Irawan <br>
   I'm Full Stack Web Developer <br>
