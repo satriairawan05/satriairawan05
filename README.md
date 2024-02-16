@@ -1,6 +1,6 @@
 ## Introduction
 
-<p>
+<p align="center">
   Hello, I'm Deuwi Satriya Irawan <br>
   I'm Full Stack Web Developer <br>
   Focus on Laravel Ecosystem <br>
@@ -9,7 +9,9 @@
 
 ## Stats
 
-  ![github stats](https://github-readme-stats.vercel.app/api?username=satriairawan05&show_icons=true&theme=dark)
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satriairawan05&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
   
 
 ## 🛠 Stack
