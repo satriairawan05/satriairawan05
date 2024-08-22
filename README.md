@@ -3,8 +3,7 @@
 <p align="center">
   Hello, I'm Deuwi Satriya Irawan <br>
   I'm Full Stack Web Developer <br>
-  Focus on Laravel Ecosystem <br>
-  I'm Available for Freelancing
+  Focus on Laravel Ecosystem
 </p>
 
 ## Stats
