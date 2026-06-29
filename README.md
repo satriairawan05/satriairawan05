@@ -6,13 +6,6 @@
   Focus on Laravel Ecosystem
 </p>
 
-## Stats
-
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satriairawan05&show_icons=true&theme=dark" alt="GitHub Stats">
-</p>
-  
-
 ## 🛠 Stack
 
 <p>
